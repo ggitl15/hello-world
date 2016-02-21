@@ -10,8 +10,11 @@ test test test2.
 -list
 -list
 
+memo
   		
 #Changelog
-2016 02 17 : Added title. Added Changelog.
+
+2016/02/18 : Added memo. 
+2016/02/17 : Added title. Added Changelog.
 
 
