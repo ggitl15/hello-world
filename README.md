@@ -16,8 +16,8 @@ bug fixed
   		
 #Changelog
 
-2016/02/19 : bug fixed.
-2016/02/18 : Added memo. 
-2016/02/17 : Added title. Added Changelog.
+2016/02/19 : bug fixed.  
+2016/02/18 : Added memo.  
+2016/02/17 : Added title. Added Changelog.  
 
 
